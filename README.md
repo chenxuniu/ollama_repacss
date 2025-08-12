@@ -42,7 +42,7 @@ we are using ollama 0.6.8 in this version:
 ```bash
 cd $HOME
 cd <your_project>
-git clone https://github.com/nsfcac/ollama_repacss.git
+git clone https://github.com/chenxuniu/ollama_repacss.git
 cd ollama_repacss
 ```
 
